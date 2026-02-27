@@ -56,11 +56,11 @@ void loop() {
 
     // TODO 10:
     // Print formatted temperature and humidity values
-    // Serial.print("Temperature: ");
-    // Serial.print(temperature);
-    // Serial.print(" °C | Humidity: ");
-    // Serial.print(humidity);
-    // Serial.println(" %");
+    Serial.print("Temperature: ");
+    Serial.print(temperature);
+    Serial.print(" °C | Humidity: ");
+    Serial.print(humidity);
+    Serial.println(" %");
 
     // TODO 11:
     // Add a 2-second delay before next reading
