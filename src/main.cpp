@@ -63,6 +63,6 @@ void loop() {
     Serial.println(" %");
 
     // TODO 11:
-    // Add a 2-second delay before next reading
+    // Add 2-second delay before next reading
     delay(2000);
 }
