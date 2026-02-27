@@ -28,7 +28,7 @@ void setup() {
 
     // TODO 5:
     // Initialize the DHT sensor
-    // dht.begin();
+    dht.begin();
 
     // TODO 6:
     // Print a system initialization message
