@@ -32,9 +32,9 @@ void setup() {
 
     // TODO 6:
     // Print a system initialization message
-    // Serial.println("==================================");
-    // Serial.println(" DHT11 Monitoring System Started ");
-    // Serial.println("==================================");
+    Serial.println("==================================");
+    Serial.println(" DHT11 Monitoring System Started ");
+    Serial.println("==================================");
 }
 
 void loop() {
